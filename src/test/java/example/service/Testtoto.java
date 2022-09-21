@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
  * @author orsys
  *
  */
-class test {
+class Testtoto {
 	
 public Calculatriceservice calculatriceservice=new Calculatriceservice();
 	
